@@ -18,8 +18,18 @@ The next thing you're going to do is open KiCad, and then tap on `preferences ->
 
 Then, you're going to tap on the folder button, and then open `Hackclub Symbols.kicad_sym` in your file finder
 
-<img width="1076" height="741" alt="image" src="https://github.com/user-attachments/assets/6968b56c-dc4e-4656-828c-69ff7c896158" />
+<img width="1194" height="815" alt="image" src="https://github.com/user-attachments/assets/36dd6d23-ee11-4215-8e05-63bbfa81bed8" />
 
 <img width="1284" height="1015" alt="image" src="https://github.com/user-attachments/assets/0d57b186-2a76-4cf9-aa46-1f8f0a1dbcc5" />
 
 Now just tap OK and your symbols are good to go! 
+
+Next, we're going to add the footprint library to KiCad! Go back to the KiCad menu and tap on `preferences -> manage footprint libraries`
+
+<img width="1388" height="820" alt="image" src="https://github.com/user-attachments/assets/b5264dba-dd5f-4f28-968d-1741a4111850" />
+
+Now do the same thing, tap on the folder icon, but this time, you're going to select the whole `Hackclub Footprints.pretty` _folder_ and add that in!
+
+<img width="1334" height="1054" alt="image" src="https://github.com/user-attachments/assets/ce0568e3-0097-4e6b-be1f-6a73ccd80741" />
+
+Now you're good to go with following any of the HackClub tutorials! If you need any, feel free to ask on Slack in #electronics or any other related hardware channel! 
