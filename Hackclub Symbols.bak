@@ -439,7 +439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "Hackclub Footprints:XIAO-RP2040-DIP"
 			(at 14.478 -32.258 0)
 			(effects
 				(font

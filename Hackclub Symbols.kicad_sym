@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
+		(property "Footprint" "Hackclub Footprints:OLED_0.91_128x32"
 			(at 18.034 -12.7 0)
 			(effects
 				(font
