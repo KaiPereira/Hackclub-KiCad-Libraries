@@ -28,8 +28,13 @@ Next, we're going to add the footprint library to KiCad! Go back to the KiCad me
 
 <img width="1388" height="820" alt="image" src="https://github.com/user-attachments/assets/b5264dba-dd5f-4f28-968d-1741a4111850" />
 
-Now do the same thing, tap on the folder icon, but this time, you're going to select the whole `Hackclub Footprints.pretty` _folder_ and add that in!
+Now do the same thing, tap on the folder icon, but this time, you're going to select the whole `Hackclub Footprints.pretty` _folder_ and add that in! This is so sad the 3D models for footprints will work!
 
 <img width="1334" height="1054" alt="image" src="https://github.com/user-attachments/assets/ce0568e3-0097-4e6b-be1f-6a73ccd80741" />
+
+Then finally go `preferences -> configure paths` and do the same thing, but with the entire directory:
+
+<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/6f970b40-cf8a-4c5a-889a-da6677bd866d" />
+
 
 Now you're good to go with following any of the HackClub tutorials! If you need any, feel free to ask on Slack in #electronics or any other related hardware channel! 
