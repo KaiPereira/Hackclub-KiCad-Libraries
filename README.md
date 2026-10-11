@@ -32,9 +32,9 @@ Now do the same thing, tap on the folder icon, but this time, you're going to se
 
 <img width="1334" height="1054" alt="image" src="https://github.com/user-attachments/assets/ce0568e3-0097-4e6b-be1f-6a73ccd80741" />
 
-Then finally go `preferences -> configure paths` and do the same thing, but with the entire directory and call it "HACKCLUB_LIBRARY". This is so that the 3D models for footprints will work!
+Then finally go `preferences -> configure paths` and do the same thing, but with the "3D models" directory and call it "HACKCLUB_3DMODEL_DIR". This is so that the 3D models for footprints will work!
 
-<img width="1920" height="1045" alt="image" src="https://github.com/user-attachments/assets/6f970b40-cf8a-4c5a-889a-da6677bd866d" />
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/5a3efd33-d212-46dc-812e-fb9076ec9daa" />
 
 
 Now you're good to go with following any of the HackClub tutorials! If you need any, feel free to ask on Slack in #electronics or any other related hardware channel! 
